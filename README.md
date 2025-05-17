@@ -19,7 +19,7 @@
 
 ### ✅ Επιλογή 1: Χρήση του `.exe` (χωρίς Python)
 
-1. Κατέβασε το `BlockSetup.exe` από τα [Releases](./releases).
+1. Κατέβασε το `setup.exe` από τα [Releases](./releases).
 2. Κάνε δεξί κλικ → **"Εκτέλεση ως διαχειριστής"**.
 
 ### 🐍 Επιλογή 2: Εκτέλεση του Python script
